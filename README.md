@@ -45,13 +45,4 @@ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 minikube start --driver=docker
 
 
----
-
-🔥 **NEXT STEP?**  
-Do you want me to now:  
-✅ **Bundle this project (`README.md` + all YAML/Dockerfile/playbook files) as a single `.zip`?**  
-✅ **Or move to Project 3 (Dockerized Web App deployment via Ansible on Kubernetes)?**  
-Which do you choose?
-
-
 
